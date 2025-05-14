@@ -29,7 +29,8 @@ Resume Score Checker is an application that analyzes a job seeker's resume and p
 -   Skills set match
 
 ## Deployment
-> Checkout the Live Application - https://anruthakamal-resume-score-checker-app-n6r8vw.streamlitapp.com/
+> Checkout the Live Application - S
+> treamlitapp.com/
 
 ## Requirements
 - Python 3.7 or higher
