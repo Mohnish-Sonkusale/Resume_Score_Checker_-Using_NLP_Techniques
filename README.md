@@ -1,4 +1,4 @@
-# SAMPLES SS:- 
+# SAMPLE DEMO IMAGES :- 
 ![Screenshot 2025-05-14 153859](https://github.com/user-attachments/assets/e9657451-49c3-4ca3-ba96-049d714f4df8)
 
 ![image](https://github.com/user-attachments/assets/03bf7173-a25b-4991-99aa-d6cfda0b4f89)
