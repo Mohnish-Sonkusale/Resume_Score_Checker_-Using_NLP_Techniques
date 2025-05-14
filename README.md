@@ -47,6 +47,12 @@ Resume Score Checker is an application that analyzes a job seeker's resume and p
 ### To use the Resume Score Checker, follow the steps below:
 > Clone the repository: git clone https://github.com/Mohnish-Sonkusale/Resume_Score_Checker_-Using_NLP_Techniques.git
 
+> create the virtual environment:- python -m venv myenv
+
+> Activate the Environment :- .\myenv\Scripts\activate
+
+> Deactivate :- deactivate myenv (No need to follw this step if in case to deactivate the VENV)
+
 > Install the required packages: pip install -r requirements.txt
 
 > Run the application: python app.py<br> Make sure all the codes are working fine.
