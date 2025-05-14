@@ -42,12 +42,12 @@ Resume Score Checker is an application that analyzes a job seeker's resume and p
 ## Usage
 To use the Resume Score Checker, follow the steps below:
 
-> Clone the repository: git clone https://github.com/Mohnish-Sonkusale/Resume_Score_Checker_-Using_NLP_Techniques.git <br>
-> Install the required packages: pip install -r requirements.txt <br>
+> Clone the repository: git clone https://github.com/Mohnish-Sonkusale/Resume_Score_Checker_-Using_NLP_Techniques.git
+> Install the required packages: pip install -r requirements.txt 
 > Run the application: python app.py<br> Make sure all the codes are working fine.
 > Run the Application: streamlit run app.py 
 > Open a web browser and navigate to Local URL: http://localhost:8501
-<emp> Upload your resume and job description, and the application will provide you with a score and suggestions for improvement.</emp>
+> Upload your resume and job description, and the application will provide you with a score and suggestions for improvement.
 
 ## Contributing
 We welcome contributions to Resume Score Checker! If you have any suggestions or ideas for new features, please open an issue or submit a pull request.
